@@ -1,0 +1,5 @@
+S001,ptfz,Abcd312@,Damon,damonng@mail.com,M,2/6/1995
+S002,fabian,W3wewewe%,Fabiano roberta,frbtha@mail.my,M,4/2/1995
+S003,Gordon,Abcd1@34,Gordon Ramsay,Gramsay@mail.my,M,29/05/2022
+S004,Romeo,6%43NbVas,Romeo Rodrigues,RDrigg@mail.my,M,01/05/2004
+S005,staff123,aBcd1@34,John Doe,jDoe@mail.my,M,19/05/2012
