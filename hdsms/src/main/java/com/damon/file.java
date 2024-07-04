@@ -12,7 +12,10 @@ import java.util.logging.Logger;
 public class file {
     public static HashMap<String, Object> data = new HashMap<>();
     private static final Logger logger = Logger.getLogger(file.class.getName());
+    //if running from netbeans or directly accessing the project, use the following path
     public static final String SRC = "./src/main/java/com/damon/";
+    //if running form VSCode or directly accessing via the repo, use the following path
+    // public static final String SRC = "./hdsms/src/main/java/com/damon/";
 
     public static Object[] extract(String filename){
         try(BufferedReader br = new BufferedReader(new FileReader(SRC+filename+".txt"))){
