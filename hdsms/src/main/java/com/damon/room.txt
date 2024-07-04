@@ -1,0 +1,20 @@
+R001,single,standard room with basic amenities and a bed for 1,350.00,1
+R002,single,standard room with basic amenities and a bed for 1,350.00,1
+R003,single,standard room with basic amenities and a bed for 1,350.00,1
+R004,double,standard room with basic amenities and a bed for 2,350.00,1
+R005,double,standard room with basic amenities and a bed for 2,350.00,1
+R006,double,standard room with basic amenities and a bed for 2,350.00,1
+R007,executive,standard room with work related amenities such as a desk as well as an office chair and a bed for 1,350.00,1
+R008,triple,large room with basic amenities and 3 beds for 1,350.00,1
+R009,triple,large room with basic amenities and 3 beds for 1,350.00,1
+R010,family,large room with basic amenities and 3 beds for 2,350.00,1
+R011,single,standard room with basic amenities and a bed for 1,350.00,2
+R012,single,standard room with basic amenities and a bed for 1,350.00,2
+R013,single,standard room with basic amenities and a bed for 1,350.00,2
+R014,double,standard room with basic amenities and a bed for 2,350.00,2
+R015,double,standard room with basic amenities and a bed for 2,350.00,2
+R016,double,standard room with basic amenities and a bed for 2,350.00,2
+R017,executive,standard room with work related amenities such as a desk as well as an office chair and a bed for 1,350.00,2
+R018,triple,large room with basic amenities and 3 beds for 1,350.00,2
+R019,triple,large room with basic amenities and 3 beds for 1,350.00,2
+R020,family,large room with basic amenities and 3 beds for 2,350.00,2
